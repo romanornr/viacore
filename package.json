@@ -1,5 +1,5 @@
 {
-  "name": "bitcore",
+  "name": "viacore",
   "version": "4.1.0",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
@@ -9,10 +9,13 @@
     "build-deb": "./scripts/build-deb"
   },
   "bin": {
-    "bitcore": "./bin/bitcore",
-    "bitcored": "./bin/bitcored"
+    "viacore": "./bin/viacore",
+    "viacored": "./bin/viacored"
   },
   "contributors": [
+    {
+      "name": "Romano"
+    },
     {
       "name": "Daniel Cousens",
       "email": "bitcoin@dcousens.com"
@@ -76,14 +79,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/viacoin/viacore.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.14",
-    "bitcore-node": "~3.1.0",
+    "viacore-lib": "^0.13.19",
+    "viacore-node": "^3.1.4",
     "insight-api": "^0.4.0",
     "insight-ui": "^0.4.0"
   },

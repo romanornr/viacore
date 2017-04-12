@@ -1,9 +1,7 @@
 #!/usr/bin/env node
 
-'use strict';
-
+var viacore = require('viacore-node/lib/cli/bitcore');
 var path = require('path');
-var bitcored = require('bitcore-node/lib/cli/bitcored');
 var servicesPath = path.resolve(__dirname, '../');
 var additionalServices = ['insight-api', 'insight-ui'];
-bitcored(servicesPath, additionalServices);
+viacore(servicesPath, additionalServices);

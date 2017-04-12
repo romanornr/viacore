@@ -1,18 +1,19 @@
 {
-  "name": "bitcore",
-  "main": "./bitcore.min.js",
+  "name": "viacore",
+  "main": "./viacore.min.js",
   "version": "0.13.5",
-  "homepage": "http://bitcore.io",
   "authors": [
     "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your bitcoin project.",
+  "description": "A pure, powerful core for your viacoin project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
+    "viacoin",
+    "viacore",
     "bitcoin",
-    "bitcore",
+    "via",
     "btc",
     "satoshi"
   ],
