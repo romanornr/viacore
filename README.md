@@ -2,7 +2,8 @@ Viacore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/viacore.svg?style=flat-square)](https://www.npmjs.org/package/viacore)
-[![Build Status](https://img.shields.io/travis/viacoin/viacore.svg?branch=master&style=flat-square)](https://travis-ci.org/viacoin/viacore)
+[![Build Status](https://travis-ci.org/bitpay/bitcore.svg?branch=master)](https://travis-ci.org/bitpay/bitcore)
+[![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore.svg)](https://coveralls.io/r/bitpay/bitcore)
 
 Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.
 

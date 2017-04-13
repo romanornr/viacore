@@ -1,7 +1,7 @@
 {
   "name": "viacore",
-  "version": "4.1.0",
-  "description": "A platform to build bitcoin and blockchain-based applications.",
+  "version": "4.1.7",
+  "description": "A platform to build viacoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -85,10 +85,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "viacore-lib": "^0.13.19",
-    "viacore-node": "^3.1.4",
-    "insight-api": "^0.4.0",
-    "insight-ui": "^0.4.0"
+    "viacore-lib": "^0.13.21",
+    "viacore-node": "^3.1.7",
+    "insight-via-api": "^0.4.3",
+    "insight-via-ui": "^0.4.2"
   },
   "license": "MIT",
   "devDependencies": {
