@@ -5,7 +5,7 @@ Viacore
 [![Build Status](https://travis-ci.org/bitpay/bitcore.svg?branch=master)](https://travis-ci.org/bitpay/bitcore)
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore.svg)](https://coveralls.io/r/bitpay/bitcore)
 
-Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.
+Infrastructure to build Viacoin and blockchain-based applications for the next generation of financial technology.
 
 **Note:** If you're looking for the viacore Library please see: https://github.com/viacoin/viacore-lib
 
@@ -43,7 +43,7 @@ transaction.sign(privateKey);
 - [Wallet Client](https://github.com/bitpay/bitcore-wallet-client) - A client for the wallet service
 - [CLI Wallet](https://github.com/bitpay/bitcore-wallet) - A command-line based wallet client
 - [Angular Wallet Client](https://github.com/bitpay/angular-bitcore-wallet-client) - An Angular based wallet client
-- [Copay](https://github.com/bitpay/copay) - An easy-to-use, multiplatform, multisignature, secure bitcoin wallet
+- [Copay](https://github.com/bitpay/copay) - An easy-to-use, multiplatform, multisignature, secure viacoin wallet
 
 ## Libraries
 
@@ -51,7 +51,7 @@ transaction.sign(privateKey);
 - [Payment Protocol](https://github.com/bitpay/bitcore-payment-protocol) - A protocol for communication between a merchant and customer
 - [P2P](https://github.com/viacoin/viacore-p2p) - The peer-to-peer networking protocol
 - [Mnemonic](https://github.com/bitpay/bitcore-mnemonic) - Implements mnemonic code for generating deterministic keys
-- [Channel](https://github.com/bitpay/bitcore-channel) - Micropayment channels for rapidly adjusting bitcoin transactions
+- [Channel](https://github.com/bitpay/bitcore-channel) - Micropayment channels for rapidly adjusting viacoin transactions
 - [Message](https://github.com/viacoin/viacore-message) - Viacoin message verification and signing
 - [ECIES](https://github.com/bitpay/bitcore-ecies) - Uses ECIES symmetric key negotiation from public keys to encrypt arbitrarily long data streams.
 
